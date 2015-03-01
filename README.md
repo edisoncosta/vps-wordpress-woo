@@ -51,7 +51,7 @@ email = **emailadmin**
 - nano /var/www/MINHALOJA.com.br/wp-config.php
 
   ``` php
-  define( 'WP_MEMORY_LIMIT', '128M' ); <br>
+  define( 'WP_MEMORY_LIMIT', '128M' );
   define ( 'AUTOMATIC_UPDATER_DISABLED', true );
   ```
 
