@@ -1,4 +1,4 @@
-### INSTALAÇÃO DE SERVIDOR OTIMIZADO WORDPRESS + WOO
+#### INSTALAÇÃO DE SERVIDOR OTIMIZADO WordPress + WooCommerce
 
 
 #### PASSO 1
@@ -143,6 +143,8 @@ location ~ /purge(/.*) {
 ``` html
 http://www.MINHALOJA.com.br/pma
 ```
+
+[Link da Vídeo-Aula] (http://youtu.be/m7mGl683Ioc)
 
 # SUCESSO !
 
