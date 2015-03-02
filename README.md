@@ -144,7 +144,8 @@ location ~ /purge(/.*) {
 http://www.MINHALOJA.com.br/pma
 ```
 
-[Link da Vídeo-Aula] (http://youtu.be/m7mGl683Ioc)
+
+##### [Acesse a Vídeo-Aula AQUI!] (http://youtu.be/m7mGl683Ioc)
 
 # SUCESSO !
 
