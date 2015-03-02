@@ -1,4 +1,4 @@
-#### INSTALAÇÃO DE SERVIDOR OTIMIZADO WordPress + WooCommerce
+#### INSTALAÇÃO DE SERVIDOR OTIMIZADO PARA WordPress + WooCommerce
 
 
 #### PASSO 1
