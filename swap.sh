@@ -10,10 +10,10 @@ fi
 
 
 # Mensagens
-echo "=========================================================="
-echo "Bem Vindo ao Script de Criação de SWAP - EdisonCosta"
-echo "Este script de instalação cria automaticamente um arquivo de swap."
-echo "=========================================================="
+echo "=================================================================="
+echo "Bem Vindo ao Script de Criacao de SWAP - EdisonCosta"
+echo "Este script de instalacao cria automaticamente um arquivo de swap."
+echo "=================================================================="
 echo ""
 
 # Setup variaveis
@@ -38,8 +38,8 @@ echo "vm.vfs_cache_pressure=50" | sudo tee /etc/sysctl.conf -a
 
 # Finalizado
 echo ""
-echo "=========================================================="
-echo "Finalizado! Para aplicar as alterações reinicie o Servidor:"
+echo "=============================================================="
+echo "Finalizado! Para aplicar as alteracoes reinicie o Servidor:"
 echo "$ reboot now"
-echo "=========================================================="
+echo "=============================================================="
 echo ""
