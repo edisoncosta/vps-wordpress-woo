@@ -138,7 +138,7 @@ location ~ /purge(/.*) {
 
 - ee stack install --phpmyadmin
 
-- nano /root/.my.cnf
+- nano /etc/mysql/conf.d/my.cnf
 
 ``` html
 http://www.MINHALOJA.com.br/pma
